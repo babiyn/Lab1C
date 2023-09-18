@@ -1,0 +1,6 @@
+﻿  FileName.c
+C:\Users\User\source\repos\NazarBabiyPR1\NazarBabiyPR1\FileName.c(23,75): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\User\source\repos\NazarBabiyPR1\NazarBabiyPR1\FileName.c(23,75): message : placeholders and their parameters expect 2 variadic arguments, but 3 were provided
+C:\Users\User\source\repos\NazarBabiyPR1\NazarBabiyPR1\FileName.c(27,79): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\User\source\repos\NazarBabiyPR1\NazarBabiyPR1\FileName.c(27,79): message : placeholders and their parameters expect 2 variadic arguments, but 3 were provided
+  NazarBabiyPR1.vcxproj -> C:\Users\User\source\repos\NazarBabiyPR1\x64\Debug\NazarBabiyPR1.exe
